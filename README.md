@@ -2,7 +2,7 @@
 
 I am a java developer (very sexy)
 
-If you need to contact me, add me on discord Vince.#2687
+If you need to contact me, add me on discord Vince#7777
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentTro&theme=dark&show_icons=true)
 <!--
