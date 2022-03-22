@@ -4,7 +4,7 @@ I am a java developer (very sexy)
 
 If you need to contact me, add me on discord Vince#7777
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentTro&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-vince&theme=dark&show_icons=true)
 <!--
 **VincentTro/VincentTro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
