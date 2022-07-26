@@ -1,6 +1,6 @@
 ### Hi there I am Vince👋
 
-I am a java developer (very sexy)
+I know Java and i'm learning C# & C++. I want to get more into game hacking and general use of both languages
 
 If you need to contact me, add me on discord Vince#7777
 
