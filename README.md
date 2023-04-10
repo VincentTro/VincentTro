@@ -1,8 +1,14 @@
 ### Hi there I am Vince👋
 
-I know Java and i'm learning C# & C++. I want to get more into game hacking and general use of both languages
+## Languages I know
+Java
+Python
+Node.js
+C# (partial)
+GoLang (partial)
 
-If you need to contact me, add me on discord Vince#7777
+## Contact
+Telegram: https://t.me/DevVince 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-vince&theme=dark&show_icons=true)
 
