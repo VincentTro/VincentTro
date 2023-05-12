@@ -2,10 +2,16 @@
 
 ## Languages I know
 Java
+
 Python
+
 Node.js
-C# (partial)
-GoLang (partial)
+
+C#
+
+GoLang
+
+C++
 
 ## Contact
 Telegram: https://t.me/DevVince 
