@@ -1,17 +1,15 @@
 ### Hi there I am Vince👋
 
 ## Languages I know
-Java
+* Java
+* Python
+* Node.js
+* JavaScript
+* C++
+* C#
+* GoLang
+* Dart
 
-Python
-
-Node.js
-
-C#
-
-GoLang
-
-C++
 
 ## Contact
 Telegram: https://t.me/DevVince 
